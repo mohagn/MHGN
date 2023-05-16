@@ -1,0 +1,502 @@
+<html>
+<head> 
+<title> Activite 4 - Module TIC </title>
+</head>
+<body>
+<h1> LIST DES ETUDIANTS </h1>
+<ol>
+<li> MATRICULE : 222231362411 , NOM : Ouiles, PRENOM : Maher, SPECIALITE : Lic.Info , SECTION: 3, 
+PARTIE : 1 </P> 
+<li> MATRICULE : 222231518717, NOM : massoum , PRENOM : moncef, SPECIALITE : Lic.Info, 
+SECTION: 3, PARTIE : 1 </P> 
+<li> MATRICULE : 222231341406 , NOM : Gonzar , PRENOM : Mohamed, SPECIALITE : Lic.Info, 
+SECTION: 3, PARTIE : 2 </P> 
+<li> MATRICULE : 222231628515, NOM : saidouni , PRENOM : issam, SPECIALITE : Lic.Info, SECTION: 
+3, PARTIE : 2 </P>
+<li> MATRICULE : 222231638319, NOM : Akerdjoudj , PRENOM : dounia, SPECIALITE : Lic.Info, 
+SECTION: 3 , PARTIE : 3 </P>
+<li> MATRICULE : 222231694811, NOM : Slifi Baya , PRENOM : ines, SPECIALITE : Lic.Info, SECTION: 3, 
+PARTIE : 3 </P>
+<li> MATRICULE : 222231649806, NOM : Slimatni , PRENOM : Rayan, SPECIALITE : Lic.Info, SECTION: 
+3, PARTIE : 4 </P>
+<li> MATRICULE : 212231701903, NOM : Benkaci , PRENOM : Maria, SPECIALITE : Lic.Info, SECTION: 3, 
+PARTIE : 4 </P>
+<li> MATRICULE : 222231361203 , NOM : Ladraa , PRENOM : Rania, SPECIALITE : Lic.Info , SECTION: 
+3, PARTIE : 5 </P>
+<li> NOM : Touchen, PRENOM : Samy Salah, SPECIALITE :: Lic.Info , 
+SECTION: 3, PARTIE : 5 </P>
+</ol>
+<hr>
+<h1> Partie1: Résume de chapitre 1 <h1>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="actt.css">
+</head>
+<body>
+<h2 > 1. Les techniques de l’information et de la communication (TIC) :</h2>
+<p>Les techniques de l’information et de la communication (TIC) sont un ensemble de technologies 
+qui permettent la communication et le partage d'informations à travers des canaux numériques.</p>
+<h2> 2. Catégories et objectifs :</h2>
+<p>Les TIC sont généralement classées en trois catégories : les technologies de l'information (TI) qui 
+concernent la gestion et le traitement des données, les technologies de communication (TC) qui 
+permettent la transmission de l'information, et les technologies multimédias qui combinent les deux. 
+Les objectifs des TIC sont multiples et incluent notamment la facilitation de la communication, la 
+diffusion d'informations, l'automatisation des processus et la création de nouvelles opportunités 
+économiques.</p>
+<h2 > 3. Composants de TIC :</h2>
+<p>Les composants des TIC comprennent les équipements matériels tels que les ordinateurs, les 
+téléphones, les réseaux de communication, les logiciels et les services en ligne.</p>
+<h2 > 4. Caractéristiques :</h2>
+<p>Les caractéristiques des TIC incluent leur capacité à traiter et stocker de grandes quantités 
+d'informations, leur vitesse de transmission, leur accessibilité et leur interactivité.</p>
+<h2> 5. Initiation aux techniques de communication :</h2>
+<p>L'initiation aux techniques de communication implique la compréhension des différents systèmes 
+de communication, tels que la communication verbale, non verbale, écrite et visuelle. Les objectifs
+de communication peuvent être variés, allant de la persuasion à l'information en passant par 
+l'expression émotionnelle.</p>
+<h4 >. Objectifs de communication :</h4>
+<p>Les objectifs de communication peuvent être variés, allant de la persuasion à l'information en 
+passant par l'expression émotionnelle.</p>
+<h4 > . Système de communication :</h4>
+<p>Les systèmes de communication comprennent les canaux de communication, tels que les réseaux 
+de communication et les médias de transmission. Les types de communication incluent la 
+communication interpersonnelle, la communication de groupe et la communication de masse.</p>
+<h4 > . Les types de communication :</h4>
+<p>Les types de communication incluent la communication interpersonnelle, la communication de 
+groupe et la communication de masse.</p>
+<h4 > . Les schémas de communication :</h4>
+<p>Les schémas de communication décrivent les différentes étapes de la communication, telles que 
+l'encodage, la transmission, la réception et le décodage.</p>
+<h4 > . Média et Multimédia :</h4>
+<p>Les médias et le multimédia sont des composantes importantes des TIC, car ils permettent la 
+diffusion d'informations à travers différents canaux, tels que les journaux, la télévision, Internet et les 
+réseaux sociaux.</p>
+<h4>En résumé :</h4>
+<p>Les TIC sont un ensemble de technologies qui permettent la communication et le partage 
+d'informations à travers des canaux numériques, comprenant des composants matériels et logiciels, 
+des systèmes de communication et différents types de communication.</p>
+</body>
+</html>
+<hr>
+<h1> Partie2: Résume de chapitre 2 <h1>
+<html>
+<head>
+<title>Réseaux informatiques</title>
+<style>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="actt.css">
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color:white ;
+}
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: white;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+h1 {
+font-size: 32px;
+font-weight: bold;
+margin-top: 0;
+margin-bottom: 20px;
+text-align: center;
+}
+h2 {
+font-size: 24px;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+p {
+font-size: 16px;
+line-height: 1.5;
+margin: 0;
+margin-bottom: 10px;
+}
+</style>
+</head>
+<body>
+<h2>1. Définition d'un réseau informatique :</h2>
+<p>Un réseau informatique est un ensemble d'ordinateurs et de périphériques reliés 
+entre eux pour permettre l'échange de données et de ressources. Les réseaux informatiques 
+permettent aux utilisateurs de partager des informations et des ressources, tels que des fichiers, des 
+imprimantes et des connexions Internet.</p>
+<h2>2. Les caractéristiques de base d'un réseau :</h2>
+<p>Les caractéristiques d'un réseau informatique comprennent la communication, le 
+partage des ressources, la fiabilité et la sécurité. La communication est la capacité des ordinateurs et 
+des périphériques à échanger des données. Le partage des ressources permet aux utilisateurs de 
+partager des fichiers et des imprimantes. La fiabilité concerne la capacité d'un réseau à fonctionner 
+correctement sans interruption. La sécurité est la protection des données et des ressources contre 
+les accès non autorisés.</p>
+<h2>3. Quelques terminologies en réseau :</h2>
+<p>Les termes importants en réseau incluent le protocole, la bande passante, 
+l'adresse IP, le DNS, le routage et le pare-feu. Le protocole est un ensemble de règles qui détermine 
+comment les données sont échangées sur le réseau. La bande passante est la quantité de données 
+pouvant être transférée sur le réseau à un moment donné. L'adresse IP est un identifiant unique 
+attribué à chaque ordinateur sur le réseau. Le DNS est un service qui permet de convertir les noms 
+de domaine en adresses IP. Le routage est la façon dont les données sont acheminées sur le réseau. 
+Le pare-feu est un dispositif de sécurité qui empêche les accès non autorisés au réseau.</p>
+<h2>4. Éléments d'un réseau :</h2>
+<p> Éléments d'un réseau : Les éléments d'un réseau informatique incluent les 
+ordinateurs, les périphériques, les câbles, les routeurs, les commutateurs, les pare-feu et les 
+serveurs. Les ordinateurs et les périphériques sont les dispositifs qui sont connectés sur le réseau. Les 
+câbles sont utilisés pour relier les dispositifs entre eux. Les routeurs et les commutateurs sont utilisés 
+pour diriger les données sur le réseau. Les pare-feu sont utilisés pour protéger le réseau contre les 
+accès non autorisés. Les serveurs sont des ordinateurs qui fournissent des ressources, telles que des 
+fichiers et des services. </p>
+<h2>5. Classification des réseaux :</h2>
+<p> Classification des réseaux : Les réseaux informatiques peuvent être classés en fonction de leur 
+taille et de leur portée, tels que les réseaux locaux (LAN), les réseaux étendus (WAN) et les réseaux 
+métropolitains (MAN). Les réseaux locaux (LAN) sont des réseaux de petite taille qui couvrent une 
+zone géographique limitée, telle qu'un bureau ou une maison. Les réseaux étendus (WAN) sont des 
+réseaux de grande taille qui couvrent une zone géographique étendue, telle qu'un pays ou un 
+continent. Les réseaux métropolitains (MAN) sont des réseaux qui couvrent une ville ou une zone 
+métropolitaine. 
+<h2>6. Le type de topologie :</h2>
+<p>Le type de topologie : La topologie fait référence à la façon dont les ordinateurs sont connectés. 
+Les principales topologies de réseau comprennent : </p>
+• Réseau en bus : Dans un réseau en bus, tous les ordinateurs sont connectés à un même câble 
+de données. Les données sont transmises sur le câble, et chaque ordinateur reçoit les données 
+destinées à lui. Les réseaux en bus sont simples à mettre en place, mais peuvent être sujets aux 
+collisions de données. </p>
+• Réseau en étoile : Dans un réseau en étoile, tous les ordinateurs sont connectés à un 
+commutateur central ou à un concentrateur. Les données sont transmises directement au 
+commutateur central, qui les dirige vers l'ordinateur destinataire. Les réseaux en étoile sont plus 
+fiables que les réseaux en bus, car les données ne sont pas partagées sur un même câble. </p>
+• Réseau en anneau : Dans un réseau en anneau, chaque ordinateur est connecté au suivant 
+dans une boucle, formant ainsi un anneau. Les données sont transmises d'un ordinateur à l'autre 
+jusqu'à atteindre l'ordinateur destinataire. Les réseaux en anneau sont efficaces pour les transferts 
+de données, mais peuvent être difficiles à gérer en cas de panne. </p>
+• Réseau maillé : Dans un réseau maillé, chaque ordinateur est connecté à plusieurs autres 
+ordinateurs, créant ainsi un réseau complexe de connexions. Les données peuvent être transmises de 
+plusieurs manières différentes, ce qui rend le réseau maillé très résistant aux pannes.
+<hr>
+<h1> Partie3: Résume de chapitre 3 <h1>
+<h2> 1. Les Composants matériel d'un Réseau informatique: </h2>
+<p> 1- Les cartes réseau :
+Les cartes réseau, ou cartes d'interface réseau (NIC), sont des composants matériels essentiels pour 
+connecter un ordinateur à un réseau. Elles permettent la transmission et la réception de données via 
+des protocoles de communication spécifiques, tels que TCP/IP, utilisés pour transférer des données 
+sur Internet. En bref, les cartes réseau facilitent la connectivité et la communication entre les 
+ordinateurs sur un réseau.</p>
+2- SWITCH:
+Un switch est un composant matériel utilisé pour connecter des appareils sur un réseau local (LAN). Il 
+permet à plusieurs appareils de communiquer entre eux en utilisant des adresses MAC. Le switch 
+stocke ces adresses dans une table et envoie les données uniquement à l'appareil destinataire, 
+améliorant ainsi l'efficacité du réseau. Les switches sont disponibles en différentes tailles et offrent 
+des fonctionnalités avancées pour répondre aux besoins des réseaux de différentes tailles.</p>
+3- HUB:
+Un hub est un composant matériel utilisé pour connecter plusieurs appareils sur un réseau local 
+(LAN). Il transmet les données à tous les appareils connectés, ce qui entraîne une diffusion à tous les 
+appareils plutôt qu'un envoi sélectif. Les hubs ont été largement remplacés par des switches plus 
+efficaces pour la gestion du trafic réseau. Ils sont encore utilisés dans des cas spécifiques ou dans de 
+petits réseaux où la complexité d'un switch n'est pas requise. </p>
+<h2>2. Le Modèdle OSI :</h2>
+<p> Le modèle OSI (Open Systems Interconnection) est un modèle de référence pour les 
+communications réseau. Il divise les communications en sept couches distinctes, chacune ayant des 
+responsabilités spécifiques dans la transmission des données entre les appareils du réseau. Les sept 
+couches du modèle OSI sont : </p>
+1.Couche physique : transmission des données sur le support physique. </p>
+2.Couche liaison de données : transmission des données entre les appareils partageant un même 
+support physique. </p>
+3.Couche réseau : routage des données à travers le réseau. </p>
+4.Couche transport : acheminement des données de bout en bout entre les appareils. </p>
+5.Couche session : établissement et gestion des sessions entre les appareils. </p>
+6.Couche présentation : conversion des données dans un format compréhensible par l'appareil de 
+destination. </p>
+7.Couche application : communication entre les applications sur les appareils du réseau. </p>
+Bien que le modèle OSI ne soit pas utilisé dans les protocoles modernes tels que TCP/IP, il reste utile 
+pour comprendre les principes fondamentaux de la communication réseau.
+<h2> 3. Le Modèle TCP/IP :</h2>
+<p> Le modèle TCP/IP (Transmission Control Protocol/Internet Protocol) est un modèle de référence 
+utilisé dans la conception et la mise en œuvre des réseaux informatiques modernes. Il divise les 
+communications en quatre principales couches : </p>
+1.Couche liaison de données : responsable de la transmission des données sur le support physique. 
+</p>
+2.Couche réseau : responsable du routage des données à travers le réseau. </p>
+3.Couche transport : responsable de l'acheminement des données de bout en bout entre les 
+appareils. </p>
+4. Couche application : responsable de la communication entre les applications sur les appareils du 
+réseau. </p>
+Le modèle TCP/IP est utilisé avec les protocoles de communication réseau les plus couramment 
+utilisés, tels que IP, TCP et UDP. Il est appliqué dans les réseaux d'entreprise, les réseaux Internet et 
+les réseaux sans fil. Comparé au modèle OSI, le modèle TCP/IP offre une approche plus simple avec 
+moins de couches, mais il reste très efficace dans la réalisation de la communication réseau. </p>
+<h2> 4. L'adressage :</h2> 
+<p> Un adressage IP (Internet Protocol) est un système qui permet d'attribuer une adresse unique à 
+chaque ordinateur dans un réseau. Il existe deux modes d'adressage : IPv4 et IPv6. -Pour IPv4, les 
+adresses sont représentées par 32 bits (4 octets), généralement sous la forme de quatre nombres 
+décimaux séparés par des points. Par exemple, l'adresse 10101100 00010000 00000100 00010100 
+est représentée en décimal comme 172.16.4.20. -Pour IPv6, les adresses sont représentées par 128 
+bits et sont généralement exprimées en découpant l'adresse en huit mots de 16 bits séparés par des 
+deux-points. Chaque mot est représenté en hexadécimal. Par exemple, une adresse IPv6 pourrait 
+ressembler à FEDC:6A98:7654:3210:EDBC:A987:6543:210F. L'adressage IP permet d'identifier de 
+manière unique les ordinateurs dans un réseau, facilitant ainsi l'acheminement des données entre 
+eux. Cela permet également de mettre en place des règles de communication et de routage dans le 
+réseau. </p>
+<h2> 5. L'adresse IPV4 : </h2>
+<p> L'adresse IPv4 est composée de 32 bits, divisés en deux parties : la partie réseau et la partie 
+hôte. - La partie réseau est constituée des bits les plus significatifs de l'adresse. Tous les hôtes 
+appartenant au même réseau auront la même partie réseau. - La partie hôte est constituée des bits 
+restants de l'adresse. Le nombre de bits dans la partie hôte détermine le nombre maximum de 
+machines pouvant exister sur ce réseau. On divise les 32 bits en 4 octets et convertit chaque octet en 
+décimal pour obtenir l'adresse IPv4. Par exemple, l'adresse 192.168.10.1 signifie que l'ordinateur se 
+trouve sur le réseau 192.168.10.0. Il existe différents types d'adresses IPv4 :
+1) Adresse réseau : tous les bits de la partie hôte sont à zéro. Par exemple, 10.0.0.0 est une adresse 
+réseau où tous les hôtes ont la même partie réseau. </p>
+2) Adresse de diffusion : tous les bits de la partie hôte sont à un. Par exemple, 10.255.255.255 est 
+une adresse de diffusion permettant l'envoi de données à tous les hôtes du réseau. </p>
+3) Adresse hôte : les valeurs situées entre l'adresse réseau et l'adresse de diffusion sont attribuées 
+aux machines du réseau.</p>
+4) Masque de réseau et sous-réseaux : tous les bits de la partie réseau sont à un. Par exemple, pour 
+le réseau 10.0.0.0, le masque de réseau est 255.0.0.0, ce qui indique que tous les bits de la partie 
+réseau sont à un. Le masque de réseau permet de déterminer l'étendue du réseau et de définir les 
+sous-réseaux. </p>
+<hr>
+<h1> Partie4: Résume de chapitre 4 <h1>
+<h2>1. Introduction :</h2>
+<p>Le Web et Internet ne sont pas la même chose. Le Web est une application d'Internet, inventé 
+par Tim Berners-Lee et Robert Cailliau. Le Web est un système hypertexte public sur Internet qui 
+permet de consulter des pages accessibles sur des sites. Les pages sont reliées entre elles par des 
+liens hypertextes. Les ressources disponibles sur le Web sont de différentes natures : texte, image, 
+son, vidéo, contenu applicatif et interactif.</p>
+<h2>2. Aspects techniques du Web :</h2>
+<p>Les 3 mécanismes de base du Web sont :</p>
+<ol>
+<li>URL : Le mécanisme de localisation des ressources.</li> </p>
+<li>HTTP : Le protocole de niveau applicatif pour les échanges client-serveur.</li> </p>
+<li>HTML : Le langage de description de pages Web.</li>
+</ol>
+<h2>3. Page web et site web :</h2>
+<p>Une page Web est un document multimédia décrit par un langage de description : HTML, XHTML 
+ou HTML5. Elle est stockée dans un fichier et interprétée par un navigateur. Une page Web est 
+localisée sur Internet à l'aide d'une adresse URL et permet d'accéder à d'autres pages en suivant des 
+liens. Un site Web est un regroupement de pages Web reliées entre elles par des liens hypertextes. Il 
+est émanant d'une même entité et est structuré sous forme d'arborescence de dossiers et de 
+fichiers.</p>
+<h2>4. Création d'une page web HTML :</h2>
+<p>HTML est un langage de description de pages Web qui utilise des balises pour structurer les 
+documents. Un fichier HTML doit comporter au minimum les balises html, head, title et body. Les 
+titres et les paragraphes sont définis par les balises hn et p. Un fichier HTML peut être créé dans un 
+éditeur de pages Web ou un éditeur de texte.</p>
+ 
+ 
+ 
+ 
+<hr>
+<h1> Partie5: Résume de chapitre 5 <h1>
+<h2> 1. Qu’est-ce que Git ? :</h2>
+<p>
+Git est un logiciel de gestion de versions développé par
+Linus Torvalds en 2005.
+Il permet de garder une trace des modifications apportées à
+un projet, ce qui facilite la gestion de celui-ci et favorise la
+collaboration en équipe. Les logiciels de gestion de versions sont
+indispensables de nos jours, car ils permettent d'identifier rapidement
+les changements effectués et de revenir à des versions antérieures en
+cas de besoin. Git est considéré comme le leader incontesté parmi les
+outils de gestion de versions et il est essentiel pour tout développeur
+de maîtriser son utilisation.</p>
+de maîtriser son utilisation.</p>
+<h2>2. A quoi sert concrètement un système de gestion de
+version ? :</h2>
+<p>
+Lors du développement d'un site web avec plusieurs
+développeurs, il est essentiel de gérer les modifications de manière
+efficace. Git, un logiciel de gestion de versions, offre une solution
+en permettant de stocker l'historique des modifications sur un serveur
+distant. Cela évite les conflits entre les fonctionnalités développées
+par différents développeurs et offre une visibilité sur le travail de
+chacun. Chaque développeur peut copier le contenu du serveur sur sa
+machine pour travailler localement,il facilite la synchronisation, la
+connexion à d'autres projets et la mise à jour des différences. Il
+permet également de suivre l'historique des changements, de savoir
+quelles modifications ont été apportées par rapport à sa propre version
+des fichiers et d'identifier les auteurs des modifications. </p>
+<h2>3. Les deux modèles des logiciels de gestion de version :
+modèle centralisé vs modèle décentralisé </h2> 
+<p>
+Les logiciels de gestion de version se basent sur deux
+modèles : <p1>le modèle centralisé</p1> et <p2>le modèle décentralisé
+(ou distribué)</p2>.
+En comparaison avec un modèle centralisé, le modèle
+décentralisé utilisé par Git présente plusieurs avantages. Dans le
+modèle décentralisé, chaque utilisateur dispose d'une copie complète du
+projet sur sa propre machine, ce qui offre simplicité, flexibilité et
+indépendance vis-à-vis du serveur central. Les utilisateurs peuvent
+travailler en ligne sans être constamment connectés au serveur central.
+De plus, la redondance des données sur les copies locales garantit une
+meilleure sécurité. En cas de problème avec le serveur central, les
+données du projet sont préservées et peuvent être récupérées à partir
+des copies locales des utilisateurs. Enfin, le modèle décentralisé
+facilite le travail collaboratif et assure une meilleure protection des
+données.</p>
+<h2>4. Qu’est-ce que GitHub ? :</h2>
+<p>
+Git est un système de contrôle de version qui permet de
+suivre les modifications apportées à un projet et de revenir à des
+versions antérieures si nécessaire. Pour faciliter la collaboration et
+le partage de code, il existe des services en ligne tels que
+<P3>GitHub</P3>. <P3>GitHub</P3> agit comme un hébergeur de dépôts Git,
+offrant aux utilisateurs la possibilité de stocker leurs projets et de
+collaborer avec d'autres développeurs. Ainsi, Git est l'outil qui gère
+les versions du code, tandis que GitHub est la plateforme en ligne où
+les dépôts Git peuvent être partagés et collaborés de manière plus
+pratique.</p>
+<h2>5. Utiliser Git : ligne de commande, console et interface
+graphique</h2> 
+<p>Nous préconisons l'utilisation de la ligne de commande pour
+Git plutôt qu'une interface graphique, car cela permet d'avoir accès à
+toutes les commandes Git et facilite le transfert des compétences vers
+d'autres interfaces graphiques. Sous Windows, vous pouvez ouvrir la
+ligne de commande en utilisant le raccourci Windows + R, puis en tapant
+"cmd" dans la fenêtre de recherche, ou en recherchant directement "cmd"
+dans la barre des tâches.</p>
+<h2>6. Installation de Git:</h2>
+<p>
+En résumé, téléchargez, <p4>installez</p4> et
+<p4>vérifiez</p4> Git pour commencer à l'utiliser dans votre
+environnement de développement.</p>
+<h2>
+7. Paramétrage de Git</h2>
+<p>
+Pour configurer Git, suivez ces étapes :
+<p>1/ Ouvrez une ligne de commande ou un terminal.</p>
+<p>2/ Utilisez la commande git config --global user.name pour
+définir votre nom d'utilisateur.</p>
+<p>3/ Utilisez la commande git config --global user.email
+pour définir votre adresse e-mail.</p>
+4/ Assurez-vous d'utiliser l'option --global pour que ces
+informations soient utilisées globalement pour tous vos projets Git.
+<p>Pour vérifier les informations enregistrées, utilisez
+les commandes git config user.name et git config user.email.</p>
+<p2>Résumé :</p2> Utilisez les commandes git config --global
+user.name et git config --global user.email pour configurer votre nom
+d'utilisateur et votre adresse e-mail. Vérifiez ensuite les
+informations enregistrées avec les commandes appropriées.</p>
+<h2>8. Démarrer un dépôt Git :</h2> 
+<p>
+Git est un système de gestion de versions qui enregistre
+les modifications d'un projet sous forme de snapshots. Il utilise des
+commits pour créer des instantanés complets de l'état du projet à un
+moment précis. On peut créer un dépôt Git en important un répertoire
+existant ou en clonant un dépôt existant. Git permet de suivre les
+modifications au fil du temps et de conserver un historique complet des
+commits.</p>
+<h2>9. La gestion des informations selon Git :</h2>
+<p>
+Git considère les données d'un projet comme un flux
+d'instantanés ou de "snapshots". Chaque fois qu'un état du projet est
+enregistré, Git prend un instantané du contenu de l'espace de travail
+et crée une référence vers cet instantané. Ces instantanés sont stockés
+dans une base de données locale sur la machine de l'utilisateur. La
+possibilité d'avoir l'historique complet du projet localement permet à
+la plupart des opérations de Git d'être effectuées rapidement et sans
+nécessiter une connexion à un serveur central distant. Cela améliore la
+vitesse et la praticité du travail avec Git.</p> 
+<h2>10.Les états des fichiers:</h2>
+<p>Git suit les modifications des fichiers d'un projet en les
+classant en fichiers suivis et fichiers non suivis. Les fichiers suivis
+font partie du dernier instantané enregistré, tandis que les fichiers
+non suivis ne le sont pas. Lorsque vous démarrez un dépôt Git, les
+fichiers sont non suivis et doivent être ajoutés à l'index pour être
+suivis. Les fichiers suivis peuvent être modifiés, indexés (marqués
+pour le prochain instantané) et validés (enregistrés dans la base de
+données). Lorsque vous effectuez une validation, les fichiers indexés
+deviennent validés et le cycle recommence.</p>
+<h2>11. Les zones de travail :</h2>
+<p>
+Les fichiers sont associés à trois zones de travail : le
+répertoire de travail (working tree), la zone d'index (staging area) et
+le répertoire Git (repository).
+Le répertoire de travail est l'endroit où les fichiers du
+projet sont extraits pour être utilisés et modifiés.
+La zone d'index est un fichier situé dans le répertoire Git
+qui enregistre les informations sur les fichiers qui feront partie du
+prochain instantané ou commit. 
+Le répertoire Git est la partie centrale de Git où sont
+stockées les méta-données et la base de données des objets du projet.
+Le processus de travail consiste à effectuer des
+modifications dans le répertoire de travail. Les fichiers modifiés ou
+créés peuvent être ajoutés à la zone d'index. Une fois qu'un fichier
+est indexé, il est prêt à être validé (commit) et ajouté au répertoire
+Git.
+Il est utile de se référer aux schémas disponibles sur le
+site git-scm.com pour mieux comprendre ces concepts.</p>
+<h2>12. Créer un dépôt Git à partir d’un répertoire
+existant :</h2>
+<p>
+Pour créer un dépôt Git à partir d'un répertoire existant :
+Accédez au répertoire de votre projet dans la ligne de
+commande.
+<P>1/ Utilisez la commande <p1> "git init" </p1> pour
+initialiser le dépôt Git.
+<P>2/ Utilisez la commande <p1>"git add</p1> pour indexer
+tous les fichiers du répertoire.
+<P>3/ Utilisez la commande <P1>"git commit -m 'Message de
+commit'" </P1> pour valider les fichiers avec un message descriptif.
+Votre dépôt Git est maintenant créé et vos fichiers sont
+enregistrés. 
+Ces étapes vous permettent de créer rapidement un dépôt Git
+et de commencer à gérer les versions de votre projet.</p>
+<h2>13. Cloner un dépôt Git :</h2>
+<p><p>1/ Ouvrez votre terminal.</p>
+<p>2/ Naviguez jusqu'au répertoire souhaité.</p>
+<p>3/ Exécutez la commande <p2>"git clone
+<URL_du_dépôt>"</p2> en remplaçant <URL_du_dépôt></URL_du_d> par l'URL
+du dépôt Git.</p>
+<P>4/ Attendez que le clonage soit terminé.</P>
+<P>5/ Accédez au répertoire cloné avec la commande <P2>"cd
+<nom_du_dépôt>"</P2>.</P>
+D'une autre façon vous utilisez la commande <p2> "git
+clone"</p2> suivie de l'URL du dépôt pour créer une copie locale du
+dépôt Git sur votre ordinateur.</p>
+<h2>14.Ajouter ou modifier des fichiers dans un projet et
+actualiser notre dépôt Git :</h2>
+<p> Pour gérer les modifications de fichiers dans Git, il est
+important de suivre quelques étapes clés. Tout d'abord, utilisez la
+commande <p1>"git add"</p1> pour ajouter les fichiers modifiés à
+l'index. Cela permet à Git de prendre en compte ces modifications lors
+du prochain commit. Ensuite, effectuez un <p1>"git commit"</p1> pour
+enregistrer les modifications dans le dépôt Git. Lors de ce commit,
+vous pouvez fournir un message descriptif pour documenter les
+changements apportés. Si vous souhaitez ajouter et valider les fichiers
+modifiés en une seule étape, vous pouvez utiliser la commande <p1>"git
+commit -a"</p1>. Cela évite d'avoir à effectuer explicitement un
+<p1>"git add"</p1> avant chaque commit. En suivant ces étapes, vous
+pouvez efficacement gérer les modifications de fichiers dans Git.</p>
+<h2>15. Consulter l’historique des modifications Git :</h2>
+<p>
+La commande <p1>"git log"</p1> affiche l'historique des
+commits avec leurs informations associées, tels que l'identifiant,
+l'auteur, la date et le message du commit. Cela permet de consulter
+facilement l'historique des modifications dans Git.</p>
+<h2>16. Annuler des modifications apportées à un fichier
+:</h2>
+<p>L'une des principales utilisations d'un logiciel de gestion
+de versions est la possibilité de revenir à un état antérieur d'un
+projet enregistré. Après un commit, si nous continuons à travailler sur
+nos fichiers et que certaines modifications ne donnent pas les
+résultats escomptés, nous pouvons revenir à l'état précédent du fichier
+en utilisant la commande<p3>"git checkout -- nom-du-fichier"</p3> ou
+la commande plus récente<p3>"git restore"</p3> . Ces commandes
+permettent de restaurer un fichier à son état précédent enregistré dans
+Git.</p>
+<h2>17. Qu’est ce qu’une branche ? :</h2>
+<p>
+Créer une branche dans Git permet de développer et tester
+de nouvelles fonctionnalités sans affecter le projet principal. Une
+branche est simplement un pointeur vers un commit spécifique, ce qui
+rend la création de branches légère et facile à réaliser. Contrairement
+à d'autres systèmes de contrôle de version, Git ne copie pas
+l'intégralité du répertoire de travail pour créer une branche, mais
+crée simplement un nouveau pointeur. La branche par défaut s'appelle
+<p4>"master"</p4> , mais son nom peut être modifié.</p>
+<hr>
+</body>
+</html>
